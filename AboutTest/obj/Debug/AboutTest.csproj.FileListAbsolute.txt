@@ -8,3 +8,6 @@ C:\Users\knall\Documents\VS15Projects_Local\_testing\AboutTest\AboutTest\obj\Deb
 C:\Users\knall\Documents\VS15Projects_Local\_testing\AboutTest\AboutTest\obj\Debug\AboutTest.csproj.GenerateResource.Cache
 C:\Users\knall\Documents\VS15Projects_Local\_testing\AboutTest\AboutTest\obj\Debug\AboutTest.exe
 C:\Users\knall\Documents\VS15Projects_Local\_testing\AboutTest\AboutTest\obj\Debug\AboutTest.pdb
+C:\Users\knall\Documents\VS15Projects_Local\_testing\Test_AboutBox_HelpProvider\AboutTest\bin\Debug\AboutTest.exe.config
+C:\Users\knall\Documents\VS15Projects_Local\_testing\Test_AboutBox_HelpProvider\AboutTest\obj\Debug\AboutTest.exe
+C:\Users\knall\Documents\VS15Projects_Local\_testing\Test_AboutBox_HelpProvider\AboutTest\obj\Debug\AboutTest.pdb
